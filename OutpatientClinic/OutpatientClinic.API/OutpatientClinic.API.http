@@ -1,6 +1,0 @@
-@OutpatientClinic.API_HostAddress = http://localhost:5255
-
-GET {{OutpatientClinic.API_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
